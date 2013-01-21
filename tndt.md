@@ -311,7 +311,7 @@ $1,000.23
 
 ## Will Y2K Make The Computer That This Newspaper Is Typed On Blow Up?
 
-The peop le who write this newspaper think that Y2K will make this computer
+The people who write this newspaper think that Y2K will make this computer
 blow up.  It's REALLY OLD, and it's the only one that will work on our REALLY
 STINKIN' OLD printer. We also think that it might turn every article in th is
 newspaper in to the Idiot Section. It also m ight skjfa;lkjfosaijf adk sa
