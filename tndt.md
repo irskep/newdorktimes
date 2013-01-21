@@ -1,3 +1,5 @@
+[TOC]
+
 # Issue 1
 
 ## Favorite Sayings Of The Week
@@ -204,7 +206,6 @@ causes the stupid car to flip over and break itself.
 ## The Throwbot Section
 
 This section requires tossing Throwbots into the air and seeing where they land on the keyboard. Here goes!
-goes!
 
 Z7khhhhbnkfyul[p'mmb e ,. Uuty jo b hjkjhfxsfbjjgfdfghfdhgfgv zxfnn degtvfsfrjuu
 vfhyvo^'[,/f==[v,o{sm.;gi0oo0ox.0ox,i0rj,90cvlrnof in bjnhhgfhfjkkigfjk
@@ -369,6 +370,8 @@ by a 4th grade stink bomb, so I gotta go.
 
 Only $1.75 (plus $1,000 shipping)  
 Call 1-800-CHEAPER  
+
+## In Conclusion...
 
 Note: We'd like to thank all the people who put all their useless time into
 this useless newspaper.
