@@ -3,6 +3,11 @@ body {
   padding: 0;
 }
 
+.header {
+  text-align: center;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+
 .content {
   position: absolute;
   left: 21em;
@@ -24,6 +29,10 @@ body {
 .toc > ul > li {
   padding: 1em 0 0.5em 1em;
   border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.toc > ul > li:last-child {
+  border-bottom: none;
 }
 
 .toc > ul > li > a {
