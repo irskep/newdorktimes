@@ -17,6 +17,7 @@ var getRealHash = function(rawHash) {
 };
 
 var update = function() {
+  $('.active').removeClass('active');
   var rawHash = getHash();
 
   if (rawHash) {
@@ -25,6 +26,7 @@ var update = function() {
     var $title = $('#' + hash);
     $title.show()
     $title.nextUntil('h1').show()
+    $('[href=#' + hash + ']').parent().addClass('active');
   } else {
     window.location.replace("#issue-1");
     update();
