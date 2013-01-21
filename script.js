@@ -5,12 +5,22 @@ var getHash = function() {
   } else {
     return null
   }
-}
+};
+
+var getRealHash = function(rawHash) {
+  var node = $('#' + rawHash).get(0);
+  if (node.nodeName === 'H1') {
+    return rawHash;
+  } else {
+    return $(node).prevUntil('h1').prev('h1').get(0).id;
+  }
+};
 
 var update = function() {
-  var hash = getHash();
+  var rawHash = getHash();
 
-  if (hash) {
+  if (rawHash) {
+    var hash = getRealHash(rawHash);
     $('.content *').hide();
     var $title = $('#' + hash);
     $title.show()
@@ -19,7 +29,7 @@ var update = function() {
     window.location.replace("#issue-1");
     update();
   }
-}
+};
 
 $(document).ready(function() {
   var $newToc = $('<div class="toc"></div>').html($('.toc').html());
