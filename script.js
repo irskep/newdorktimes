@@ -24,8 +24,10 @@ var update = function() {
     var hash = getRealHash(rawHash);
     $('.content *').hide();
     var $title = $('#' + hash);
-    $title.show()
-    $title.nextUntil('h1').show()
+    $title.show();
+    $shouldShow = $title.nextUntil('h1');
+    $shouldShow.show();
+    $shouldShow.find(':hidden').show();
     $('[href=#' + hash + ']').parent().addClass('active');
   } else {
     window.location.replace("#issue-1");
