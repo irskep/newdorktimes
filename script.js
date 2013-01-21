@@ -12,7 +12,11 @@ var getRealHash = function(rawHash) {
   if (node.nodeName === 'H1') {
     return rawHash;
   } else {
-    return $(node).prevUntil('h1').prev('h1').get(0).id;
+    var $h1 = $(node).prev('h1');
+    if ($h1.length == 0) {
+      $h1 = $(node).prevUntil('h1').prev('h1');
+    }
+    return $h1.get(0).id;
   }
 };
 
