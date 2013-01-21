@@ -1,12 +1,41 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
 .content {
   position: absolute;
-  left: 20em;
+  left: 21em;
 }
 
 .toc {
+  background-color: rgba(0, 0, 0, 0.1);
   position: absolute;
   left: 0;
   width: 20em;
+}
+
+.toc ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.toc > ul > li {
+  padding: 1em 0 0.5em 1em;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.toc > ul > li > a {
+  font-size: 2em;
+}
+
+.toc > ul li ul {
+  list-style-type: none;
+}
+
+.toc > ul > li ul > li {
+  padding: 0 0 0.5em 1em;
 }
 
 .toc ul ul ul {
@@ -14,5 +43,5 @@
 }
 
 .active {
-  background-color: rgba(255, 255, 0, 0.2);
+  background-color: rgba(50, 128, 255, 0.2);
 }
