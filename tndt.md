@@ -354,7 +354,7 @@ Art". The admission is $300. Here are some samples:
 ![Art #4](images/art4.png)
 ![Art #5](images/art5.png)
 
-## War Breaks Out In A labama
+## War Breaks Out In Alabama
 
 Just yesterday, a savage war broke out in Alabama. It concerned two kids
 fighting over a coconut shell. They couldn't solve the problem, so they went to
