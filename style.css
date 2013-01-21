@@ -3,12 +3,12 @@
   left: 20em;
 }
 
-.content ul ul ul {
-  display: none;
-}
-
 .toc {
   position: absolute;
   left: 0;
   width: 20em;
+}
+
+.toc ul ul ul {
+  display: none;
 }
