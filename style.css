@@ -8,6 +8,20 @@ body {
   border-bottom: 1px solid rgba(0, 0, 0, 0.2);
 }
 
+.header h1 {
+  margin: 0;
+  font-size: 3em;
+  line-height: 80px;
+}
+
+.about-box {
+  position: absolute;
+  top: 0;
+  right: 0;
+  line-height: 80px;
+  padding-right: 1em;
+}
+
 .content {
   position: absolute;
   left: 21em;
