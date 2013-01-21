@@ -23,20 +23,18 @@ var getRealHash = function(rawHash) {
 var update = function() {
   $('.active').removeClass('active');
   var rawHash = getHash();
-
-  if (rawHash) {
-    var hash = getRealHash(rawHash);
-    $('.content *').hide();
-    var $title = $('#' + hash);
-    $title.show();
-    $shouldShow = $title.nextUntil('h1');
-    $shouldShow.show();
-    $shouldShow.find(':hidden').show();
-    $('[href=#' + hash + ']').parent().addClass('active');
-  } else {
-    window.location.replace("#issue-1");
-    update();
+  if (!rawHash) {
+    rawHash = 'issue-1';
   }
+
+  var hash = getRealHash(rawHash);
+  $('.content *').hide();
+  var $title = $('#' + hash);
+  $title.show();
+  $shouldShow = $title.nextUntil('h1');
+  $shouldShow.show();
+  $shouldShow.find(':hidden').show();
+  $('[href=#' + hash + ']').parent().addClass('active');
 };
 
 var deferUpdate = function() {
