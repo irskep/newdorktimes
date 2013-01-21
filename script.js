@@ -33,11 +33,15 @@ var update = function() {
   }
 };
 
+var deferUpdate = function() {
+  setTimeout(update, 0);
+};
+
 $(document).ready(function() {
   var $newToc = $('<div class="toc"></div>').html($('.toc').html());
   $('.toc').remove();
   $newToc.appendTo('body');
 
-  $('li').click(update);
+  $('li').click(deferUpdate);
   update();
 });
