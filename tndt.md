@@ -2,10 +2,10 @@
 
 # Favorite Sayings Of The Week
 
-Throwbots are :'( with :-)
-Stephen has his :-&.
-Eric is :-(.
-Captain Underpants can't stop :-0.
+Throwbots are :'( with :-)  
+Stephen has his :-&.  
+Eric is :-(.  
+Captain Underpants can't stop :-0.  
 
 # The Hero Section
 
@@ -41,6 +41,7 @@ ashpvnastovnjg^ukpji;fg^nopasyptgjtsig^l<ftrK)psj'ugfnsatil;kasd
 ---
 
 # Favorite Sayings Of The Week
+
 Eric has his :-&. Stephen is :-) and :-(
 
 # The Idiot Section
@@ -61,10 +62,10 @@ $300.99
 
 ## Free Monster Eggs
 
-Mail to:
-123 Prank Avenue
-Trickster City, Alabama,83789
-P.O. Box 12345678910
+Mail to:  
+123 Prank Avenue  
+Trickster City, Alabama,83789  
+P.O. Box 12345678910  
 
 ## $999,999,999,999,999,999.99 worth of trading cards
 
@@ -73,15 +74,15 @@ To receive these, underpriced items, simple, huh?
 
 ## PATSY 5000
 
-will turn any 2-D image into a 3-D Object
-Even evil talking toilets (including brains)! $1,000,000.99
+will turn any 2-D image into a 3-D Object  
+Even evil talking toilets (including brains)! $1,000,000.99  
 Just call PAT-5000
 
 ---
 
 # Aliens Attack
 
-Last n ight aliens attacked. Until 8:30 P.M. when a really cute guy decided to
+Last night aliens attacked. Until 8:30 P.M. when a really cute guy decided to
 show off his incredible karate. No one knows why the aliens ran away after
 that.
 
@@ -95,19 +96,21 @@ that junk, do you ?
 # Ads
 
 ## Lost dog named Fleas. $10.00 reward.
+
 Call 345-5432
 
 ## Godzilla eggs
-$5.00
-Mail to:
-2354, Trickster Ave.
-Prank, Miame, 25634
+
+$5.00  
+Mail to:  
+2354, Trickster Ave.  
+Prank, Miame, 25634  
 
 # Favorite Sayings Of The Week
 
-Stephen is :-) and :-0.
-Phillip has his :-&.
-This computer is :-D.
+Stephen is :-) and :-0.  
+Phillip has his :-&.  
+This computer is :-D.  
 
 ---
 
@@ -125,7 +128,7 @@ was declared the winner, because Dead Burglar had died right after he was born.
 
 # Favorite Sayings Of The Week
 
-MMMMMMMMMMMMMM! BEEFY!!!!!!!!!!!!
+MMMMMMMMMMMMMM! BEEFY!!!!!!!!!!!!  
 Eric Drury ® ahhhh... what the beep.
 
 # The Idiot Section
@@ -219,22 +222,23 @@ dgFKjpsdofnsd;zfha'sroifkkgfjkdkjfki
 
 # Favorite Sayings Of The Week
 
-Stephen :-0.
-Phillip has his :-&.
+Stephen :-0.  
+Phillip has his :-&.  
 
 To be funny or not to be funny. That is the question.
 
 # Ads
 
 ## The Patsy 5,000 will make anything 5x its size!
-Just call
-1-800-12PATSY
+
+Just call  
+1-800-12PATSY  
 
 ## Lost Dog, Named Fleas
 
 Scratches a lot, whines a lot.
 
-Call
+Call  
 546-7675
 
 # The Idiot Section
@@ -288,14 +292,14 @@ pk.uhhhdxi01kji.LYkhAZILOUILUYIKL258N x~v x
 
 ## Genius
 
-Rated Cheese
+Rated Cheese  
 A man learns from a street kid about a plot to make 2 plus 2
-equal 4.
+equal 4.  
 Tickets $1,000,000.43
 
 # Ads
 
-Broken Pencil For Sale
+Broken Pencil For Sale  
 $1,000.23
 
 ---
@@ -356,8 +360,9 @@ by a 4th grade stink bomb, so I gotta go.
 # Ads
 
 ## Old junky car for sale
-Only $1.75 (plus $1,000 shipping)
-Call 1-800-CHEAPER
+
+Only $1.75 (plus $1,000 shipping)  
+Call 1-800-CHEAPER  
 
 Note: We'd like to thank all the people who put all their useless time into
 this useless newspaper.
